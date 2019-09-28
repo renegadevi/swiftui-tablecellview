@@ -14,7 +14,7 @@ This is just a few examples how you could make some of the cells just by a line 
 
 
 
-### Example 1
+### Example 1: Text cells
 
 ![example-1-Grouped](https://gitlab.com/renegadevi/swiftui-tablecellview/raw/master/screenshots/01_Grouped.png)
 ![example-1-Plain](https://gitlab.com/renegadevi/swiftui-tablecellview/raw/master/screenshots/01_Plain.png)
@@ -36,7 +36,7 @@ Section(header: Text("Examples of text cells")) {
 
 
 
-### Example 2
+### Example 2: Using systemName icon
 
 ![example-2-Grouped](https://gitlab.com/renegadevi/swiftui-tablecellview/raw/master/screenshots/02_Grouped.png)
 ![example-2-Plain](https://gitlab.com/renegadevi/swiftui-tablecellview/raw/master/screenshots/02_Plain.png)
@@ -56,7 +56,7 @@ Section(header: Text("Examples using a SystemName icon")) {
 
 
 
-### Example 3
+### Example 3: Using a photo
 
 ![example-3-Grouped](https://gitlab.com/renegadevi/swiftui-tablecellview/raw/master/screenshots/03_Grouped.png)
 ![example-3-Plain](https://gitlab.com/renegadevi/swiftui-tablecellview/raw/master/screenshots/03_Plain.png)
@@ -79,7 +79,7 @@ Section(header: Text("Examples using a photo")) {
 
 
 
-### Example 4
+### Example 4: Using a NavigationLink
 
 ![example-4-Grouped](https://gitlab.com/renegadevi/swiftui-tablecellview/raw/master/screenshots/04_Grouped.png)
 ![example-4-Plain](https://gitlab.com/renegadevi/swiftui-tablecellview/raw/master/screenshots/04_Plain.png)
