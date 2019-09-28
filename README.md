@@ -33,7 +33,6 @@ Section(header: Text("Examples of text cells")) {
 }
 ```
 
----
 
 
 
@@ -54,7 +53,6 @@ Section(header: Text("Examples using a SystemName icon")) {
 }
 ```
 
----
 
 
 
@@ -78,7 +76,6 @@ Section(header: Text("Examples using a photo")) {
 }
 ```
 
----
 
 
 
@@ -103,7 +100,6 @@ Section(header: Text("Using TableCellView inside a NavigationLink")){
 }
 ```
 
----
 
 
 
