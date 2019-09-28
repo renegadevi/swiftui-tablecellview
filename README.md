@@ -1,6 +1,6 @@
 # SwiftUI-TableCellView
 
-__Rapidly create regular type of TableViewCells in SwiftUI__
+__Rapidly create commonly used TableViewCells in SwiftUI__
 
 ## About
 
