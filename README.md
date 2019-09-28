@@ -13,8 +13,6 @@ Instead of creating custom views all the time, this let's you create simple cell
 
 This is just a few examples how you could make some of the cells just by a line of code.
 
-
-
 ### Example 1: Text cells
 
 ![example-1-Grouped](https://gitlab.com/renegadevi/swiftui-tablecellview/raw/master/screenshots/01_Grouped.png)
@@ -101,6 +99,9 @@ Section(header: Text("Using TableCellView inside a NavigationLink")){
 }
 ```
 
+## Notes
+
+**Note**: If you're leaving the TableCellView() empty, it will return a empty cell with a HStack in it.
 
 
 
