@@ -6,6 +6,7 @@ __Rapidly create commonly used TableViewCells in SwiftUI__
 
 Instead of creating custom views all the time, this let's you create simple cells on the fly based on the classic Cells from UIKit. 
 
+*Tested and works with Xcode GM 11.0 and iOS 13*
 
 
 ## Examples and Screenshots
